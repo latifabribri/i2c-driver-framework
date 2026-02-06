@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Build folders
+Debug/
+Release/
+
+# Object files
+*.o
+*.elf
+*.map
+
+# OS
+.DS_Store
